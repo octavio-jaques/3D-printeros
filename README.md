@@ -4,9 +4,10 @@ _La plataforma de 3Dprinteros nos permite cargar archivos, editar los parámetro
 ## La plataforma
 ### LOGIN
 
-_Para iniciar sesión se debe ingresar a la página https://cloud.3dprinteros.com/ y usar el mail -------------- y la contraseña ------------, respetando las mayúsculas._
 
-<img title="login" width="1200" heigth ="600" src = "./img/login.png">
+_Para iniciar sesión se debe ingresar a la página https://cloud.3dprinteros.com/ e ingresar el mail y la contraseña, respetando las mayúsculas._
+
+<img title="login" width="1200" heigth ="600" src = "./img/login2.png">
 
 _Ya dentro de la sesión aparecerán las siguientes pestañas._
 
