@@ -29,7 +29,7 @@ _En esta pestaña aparecen los archivos que has sido subidos a la plataforma. De
 <img title="MYFILES" width="1200" heigth ="600" src = "./img/myfiles.png">
 
 ### DASHBOARD 
-_ Esta pestaña nos muestra información sobre las impresiones realizadas como por ejemplo el número y horas de impresión, errores, cantidad de material utilizado, etc._
+_Esta pestaña nos muestra información sobre las impresiones realizadas como por ejemplo el número y horas de impresión, errores, cantidad de material utilizado, etc._
 
 <img title="DASHBOARD" width="1200" heigth ="600" src = "./img/dashboard.png">
 
