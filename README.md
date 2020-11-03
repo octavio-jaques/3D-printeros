@@ -24,7 +24,7 @@ _Esta pestaña permite buscar archivos .stl en páginas como Thingiverse, YouMag
 <img title="SEARCH" width="1200" heigth ="600" src = "./img/search.png">
 
 ### MYFILES
-_En esta pestaña aparecen los archivos que has sido subidos a la plataforma. Desde esta pestaña es posible ver los archivos, generar los Gcode y enviar un impresión._
+_En esta pestaña aparecen los archivos que has sido subidos a la plataforma. Desde esta pestaña es posible ver los archivos, generar los Gcode y enviar una impresión._
 
 <img title="MYFILES" width="1200" heigth ="600" src = "./img/myfiles.png">
 
@@ -36,7 +36,7 @@ _Esta pestaña nos muestra información sobre las impresiones realizadas como po
 ### PRINTERS
 _Esta pestaña muestra cada una de las impresoras y su estatus, además permite ver la cámara en tiempo real de cada impresora._
 
-<img title="PRINTERS" width="1200" heigth ="600" src = "./img/printers.png">
+<img title="PRINTERS" width="1200" heigth ="600" src = "./img/printers2.png">
 
 
 ## Pasos a seguir para mandar una impresión 
@@ -80,7 +80,7 @@ _Luego del SLICE se generará el archivo Gcode, el cual aparecerá en la secció
 
 _Ahora se debe seleccionar la opción PRINT y se abrirá una ventana donde se deben seleccionar alguna impresora disponible_
 
-<img title="SELECT PRINT" width="1200" heigth ="600" src = "./img/selectprint.jpeg">
+<img title="SELECT PRINT" width="1200" heigth ="600" src = "./img/print2.png">
 
 _Luego de esto se abrirá una ventana en la que se podrá ver el trabajo en tiempo real de la impresora, además se podrá pausar y cancelar la impresión de ser necesario._
 
