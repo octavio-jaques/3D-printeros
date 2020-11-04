@@ -58,13 +58,35 @@ _Ya habiendo subido el archivo hay que ir a la pestaña MY FILES donde aparecer�
 
 <img title="MYFILES2" width="1200" heigth ="600" src = "./img/myfiles2.1.png">
 
-_El siguiente paso es seleccionar la opción REPAIR y se abrirá la siguiente ventana en donde se debe seleccionar la opción FIX._
+_El siguiente paso es preparar el diseño usando la opción LAYOUT la cual abrirá un editor de archivos stl en el cual se podrá mover, rotar y escalar el diseño a imprimir, además, es posible agregar más elementos al archivo de impresión, seleccionar el extrusor con que se imprimirá la Figura, entre otras._
+
+<img title="LAYOUT" width="1200" heigth ="600" src = "./img/layout2.png">
+
+_En este caso podemos ver que el archivo esta fuera de área de trabajo de la impresora por lo que debemos seleccionarlo usar las opciones ON BED la cual pondrá el diseño sobre la superficie correspondiente a la cama de impresión, luego debemos usar la función CENTER la cual pondrá el diseño en el centro de la cama de impresión, si se quisiera ubicar en otro lugar se debería usar la opción MOVE y desplazar el diseño manualmente con el mouse, flechas del teclado o en el caso de un dispositivo táctil arrastrarlo._
+
+<img title="ON BED" width="1200" heigth ="600" src = "./img/layout-bed.png">
+<img title="CENTER" width="1200" heigth ="600" src = "./img/layout-center.png">
+
+_Luego se debe verificar las dimensiones del diseño con la opción SCALE._
+
+<img title="SCALE" width="1200" heigth ="600" src = "./img/layout-scale.png">
+
+_El último paso en el editor de stl es guardar el nuevo diseño, para esto está la opción SAVE la cual guardara el archivo en la carpeta del proyecto y también está la opción SAVE&SLICE la cual además de guardar el archivo abre una ventana con las opciones para realizar el slice._
+
+<img title="LAYOUT" width="1200" heigth ="600" src = "./img/layout.png">
+
+_El archivo guardado aparecerá en la carpeta del proyecto, en este casDeathStarMOLDEHIELO_5239562.stl_
+
+<img title="MYPROJECT" width="1200" heigth ="600" src = "./img/myproyects3.png">
+
+
+_Existe la función REPAIR que realiza automáticamente pasos anteriores, pero es recomendable confirmar luego manualmente la escala del diseño debido a posibles conflictos con las unidades de medida, para usarla se debe apretar el botón REPAIR y se abrirá la siguiente ventana en donde se debe seleccionar la opción FIX._
 
 <img title="MYFILES3" width="1200" heigth ="600" src = "./img/myfiles3.png">
 
 _Tras el proceso anterior ahora nuestro archivo aparecerá en la sección MY PROJECTS donde debemos seleccionar la opción SLICE en el archivo nuevo, en este caso “DeathStarMOLDEHIELO_5239562_stlmagicfix.stl”._   
 
-<img title="MYPROJECT" width="1200" heigth ="600" src = "./img/myproyects.png">
+<img title="MYPROJECT" width="1200" heigth ="600" src = "./img/myproyects2.png">
 
 _Luego de seleccionar la opción de SLICE se abrirá una ventana en la cual se deben ajustar los parámetros de impresión. Luego se debe seleccionar una de las 2 opciones de SLICE, es recomendable usar la opción de SLICE & toolpath preview ya que permite ver como se generara el soporte y las capas de la impresión._
 
@@ -76,7 +98,7 @@ _Luego de seleccionar la opción de SLICE se abrirá una ventana en la cual se d
 
 _Luego del SLICE se generará el archivo Gcode, el cual aparecerá en la sección de MY PROJECT._
 
-<img title="GCODE" width="1200" heigth ="600" src = "./img/myproyects2.png">
+<img title="GCODE" width="1200" heigth ="600" src = "./img/gcode.png">
 
 _Ahora se debe seleccionar la opción PRINT y se abrirá una ventana donde se deben seleccionar alguna impresora disponible_
 
