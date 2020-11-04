@@ -86,7 +86,7 @@ _Existe la función REPAIR que realiza automáticamente pasos anteriores, pero e
 
 _Tras el proceso anterior ahora nuestro archivo aparecerá en la sección MY PROJECTS donde debemos seleccionar la opción SLICE en el archivo nuevo, en este caso “DeathStarMOLDEHIELO_5239562_stlmagicfix.stl”._   
 
-<img title="MYPROJECT" width="1200" heigth ="600" src = "./img/myproyects2.png">
+<img title="MYPROJECT" width="1200" heigth ="600" src = "./img/myproyects.png">
 
 _Luego de seleccionar la opción de SLICE se abrirá una ventana en la cual se deben ajustar los parámetros de impresión. Luego se debe seleccionar una de las 2 opciones de SLICE, es recomendable usar la opción de SLICE & toolpath preview ya que permite ver como se generara el soporte y las capas de la impresión._
 
